@@ -44,6 +44,4 @@ Docker - Django - Flask - Java - Javascript - Jenkins - Kotlin. <h3>
 <img align="center" alt="gabriel-instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"</a>  
 
   
-
-
-    
+![Snake animation](https://github.com/gabrielronney62/gabrielronney62/blob/output/github-contribution-grid-snake.svg)
