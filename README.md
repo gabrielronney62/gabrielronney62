@@ -1,16 +1,49 @@
-### Hi there 👋
+### 🤘 Hello Horld! I am Gabriel Ronney! 🤘
 
-<!--
-**gabrielronney62/gabrielronney62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+### - 📚🧠 I'm currently studying:
 
-Here are some ideas to get you started:
+Docker - Django - Flask - Java - Javascript - Jenkins - Kotlin. <h3> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielronney62&show_icons=true&theme=dark)
+
+## My Skills
+
+<a href="https://www.linux.org/pages/download/" target="_blank">
+<img align="center" alt="gabriel-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"</a>
+  
+<a href="https://www.linux.org/pages/download/" target="_blank">
+<img align="center" alt="gabriel-windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"</a>
+  
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+<img align="center" alt="gabriel-html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"</a> 
+  
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+<img align="center" alt="gabriel-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"</a> 
+  
+<a href="https://getbootstrap.com/" target="_blank">
+<img align="center" alt="gabriel-bootsrapt" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"</a> 
+  
+<a href="https://linuxhint.com/30_bash_script_examples/" target="_blank">
+<img align="center" alt="gabriel-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"</a>  
+  
+<a href="https://www.mysql.com/" target="_blank">
+<img align="center" alt="gabriel-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"</a> 
+  
+<a href="https://www.python.org/" target="_blank">
+<img align="center" alt="gabriel-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"</a>
+  
+  
+## Connect With me:
+  
+<a href="https://www.linkedin.com/in/gabrielronneydasilva/" target="_blank">
+<img align="center" alt="gabriel-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"</a>
+  
+<a href="https://www.instagram.com/gabrielronney/" target="_blank">
+<img align="center" alt="gabriel-instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"</a>  
+
+  
+
+
+    
