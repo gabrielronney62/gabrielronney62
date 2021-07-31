@@ -13,7 +13,7 @@ Docker - Django - Flask - Java - Javascript - Jenkins - Kotlin. <h3>
 <a href="https://www.linux.org/pages/download/" target="_blank">
 <img align="center" alt="gabriel-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"</a>
   
-<a href="https://www.linux.org/pages/download/" target="_blank">
+<a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
 <img align="center" alt="gabriel-windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"</a>
   
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
