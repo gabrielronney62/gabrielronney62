@@ -40,8 +40,6 @@ Docker - Django - Flask - Java - Javascript - Jenkins - Kotlin. <h3>
 <a href="https://www.linkedin.com/in/gabrielronneydasilva/" target="_blank">
 <img align="center" alt="gabriel-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"</a>
   
-<a href="https://www.instagram.com/gabrielronney/" target="_blank">
-<img align="center" alt="gabriel-instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"</a>  
 
   
 ![Snake animation](https://github.com/gabrielronney62/gabrielronney62/blob/output/github-contribution-grid-snake.svg)
