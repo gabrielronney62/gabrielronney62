@@ -2,7 +2,7 @@
   
 ### - 📚🧠 I'm currently studying:
 
-Docker - Django - Flask - Java - Javascript - Jenkins - Kotlin. <h3> 
+Python - Java - Javascript - Kotlin - Flask - Django - Docker - Jenkins. <h3> 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielronney62&show_icons=true&theme=dark)
