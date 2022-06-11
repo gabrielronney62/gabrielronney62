@@ -6,6 +6,7 @@ Python - Java - Javascript - Kotlin - Flask - Django - Docker - Jenkins. <h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielronney62&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielronney62&show_icons=true&theme=dark)
 
 ## My Skills
 
