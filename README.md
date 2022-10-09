@@ -41,5 +41,6 @@ Python - Java - Javascript - Flask - Django - Docker - Jenkins. <h3>
 <img align="center" alt="gabriel-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"</a>
   
 
-  
+ 
+
 ![Snake animation](https://github.com/gabrielronney62/gabrielronney62/blob/output/github-contribution-grid-snake.svg)
