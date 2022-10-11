@@ -1,6 +1,6 @@
 ### 🤘 Hello World! I am Gabriel Ronney! 🤘
   
-### - 📚🧠 I'm currently studying:
+### - 📚🧠 I'm studying:
 
 Python - Java - Javascript - Flask - Django - Docker - Jenkins. <h3> 
 
