@@ -1,46 +1,88 @@
-### 🤘 Hello World! I am Gabriel Ronney! 🤘
-  
-### - 📚🧠 I'm studying:
+# 📖 Índice / Table of Contents
 
-Python - Java - Javascript - Flask - Django - Docker - Jenkins. <h3> 
+- 🇧🇷 [Português](#português)
+- 🇺🇸 [English](#english)
 
+---
+## 🇧🇷 Português
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielronney62&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielronney62&show_icons=true&theme=dark)
+# 👋 Olá! Eu sou Gabriel Ronney da Silva
 
-## My Skills
+🚀 **Pesquisador de Software no Centro de Inovação SESI em Tecnologias para Saúde**  
+🔭 Atualmente trabalhando com **inovação em saúde, inteligência artificial e big data**  
+📚 Mestrando em Ciência da Computação na ** Universidade Federal de Santa Catarina - UFSC**  
+⚙️ Entusiasta de **machine learning, engenharia de dados, cloud computing e segurança da informação**  
+💡 Sempre buscando soluções criativas para desafios complexos!  
 
-<a href="https://www.linux.org/pages/download/" target="_blank">
-<img align="center" alt="gabriel-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"</a>
-  
-<a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
-<img align="center" alt="gabriel-windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"</a>
-  
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-<img align="center" alt="gabriel-html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"</a> 
-  
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-<img align="center" alt="gabriel-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"</a> 
-  
-<a href="https://getbootstrap.com/" target="_blank">
-<img align="center" alt="gabriel-bootsrapt" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"</a> 
-  
-<a href="https://linuxhint.com/30_bash_script_examples/" target="_blank">
-<img align="center" alt="gabriel-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"</a>  
-  
-<a href="https://www.mysql.com/" target="_blank">
-<img align="center" alt="gabriel-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"</a> 
-  
-<a href="https://www.python.org/" target="_blank">
-<img align="center" alt="gabriel-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"</a>
-  
-  
-## Connect With me:
-  
-<a href="https://www.linkedin.com/in/gabrielronneydasilva/" target="_blank">
-<img align="center" alt="gabriel-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"</a>
-  
+## 🚀 Áreas de Atuação
+- 🧠 **Inteligência Artificial**
+- 📊 **Big Data & Data Science**
+- ☁️ **Cloud Computing (Azure, AWS, GCP)**
+- 🔐 **Segurança da Informação**
+- 📚 **Pesquisa e Inovação em Saúde**
 
- 
+## 🌱 Em constante aprendizado
+Atualmente estou me aprimorando nas seguintes áreas:
+- 💻 **Arquitetura e Engenharia de Dados**
+- 📈 **Modelos Preditivos e Machine Learning**
+- 🤖 **LLMs e RAG (Retrieval-Augmented Generation)**
+- 🗂️ **Bancos de Dados Vetoriais**
 
-![Snake animation](https://github.com/gabrielronney62/gabrielronney62/blob/output/github-contribution-grid-snake.svg)
+## 🎓 Formação
+- **Pós-Graduação** em Gestão da Segurança da Informação - Unisul (2019 - 2020)
+- **Pós-Graduação** em Banco de Dados - Faculdade Unyleya (2016 - 2020)
+- **Graduação** em Gestão da Tecnologia da Informação - UnC (2008-2012)
+
+## 🛠️ Ferramentas & Tecnologias
+- **Linguagens**: Python, Java, SQL, Bash
+- **Cloud**: Azure, AWS, GCP
+- **Banco de Dados**: PostgreSQL, MySQL, SQL Server
+- **DevOps**: Docker, Git, GitHub
+- **Monitoramento**: Zabbix
+
+## 💬 Vamos conectar!
+📧 Email: gabrielronney62@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/gabrielronney)  
+
+---
+
+## 🇺🇸 English
+
+# 👋 Hi! I'm Gabriel Ronney da Silva
+
+🚀 **Software Researcher at SESI Innovation Center for Health Technologies**  
+🔭 Currently working with **health innovation, artificial intelligence, and big data**  
+📚 Master's student in Computer Science at **Federal University of Santa Catarina - UFSC**  
+⚙️ Enthusiast of **machine learning, data engineering, cloud computing, and cybersecurity**  
+💡 Always seeking creative solutions for complex challenges!  
+
+## 🚀 Areas of Expertise
+- 🧠 **Artificial Intelligence**
+- 📊 **Big Data & Data Science**
+- ☁️ **Cloud Computing (Azure, AWS, GCP)**
+- 🔐 **Cybersecurity**
+- 📚 **Health Research and Innovation**
+
+## 🌱 Constantly Learning
+I am currently improving my skills in the following areas:
+- 💻 **Data Architecture and Engineering**
+- 📈 **Predictive Models and Machine Learning**
+- 🤖 **LLMs and RAG (Retrieval-Augmented Generation)**
+- 🗂️ **Vector Databases**
+
+## 🎓 Education
+- **Postgraduate** in Information Security Management - Unisul (2019 - 2020)
+- **Postgraduate** in Databases - Unyleya College (2016 - 2020)
+- **Tecnologist** in Information Technology Management - UnC (2008-2012)
+
+## 🛠️ Tools & Technologies
+- **Languages**: Python, Java, SQL, Bash
+- **Cloud**: Azure, AWS, GCP
+- **Databases**: PostgreSQL, MySQL, SQL Server
+- **DevOps**: Docker, Git, GitHub
+- **Monitoring**: Zabbix
+
+## 💬 Let's connect!
+📧 Email: gabrielronney62@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/gabrielronney)
+
