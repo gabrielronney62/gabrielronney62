@@ -11,19 +11,19 @@
 🚀 **Pesquisador de Software no Centro de Inovação SESI em Tecnologias para Saúde**  
 🔭 Atualmente trabalhando com **inovação em saúde, inteligência artificial e big data**  
 📚 Mestrando em Ciência da Computação na **Universidade Federal de Santa Catarina - UFSC**  
-⚙️ Entusiasta de **machine learning, engenharia de dados, cloud computing e segurança da informação**  
+⚙️ Entusiasta de **arquitetura e engenharia de dados, machine learning, cloud computing entre outros**  
 💡 Sempre buscando soluções criativas para desafios complexos!  
 
 ## 🚀 Áreas de Atuação
+- 📚 **Pesquisa e Inovação em Saúde**
 - 🧠 **Inteligência Artificial**
 - 📊 **Big Data & Data Science**
 - ☁️ **Cloud Computing (Azure, AWS, GCP)**
 - 🔐 **Segurança da Informação**
-- 📚 **Pesquisa e Inovação em Saúde**
 
 ## 🌱 Em constante aprendizado
 Atualmente estou me aprimorando nas seguintes áreas:
-- 💻 **Arquitetura e Engenharia de Dados**
+- 💻 **Arquitetura, Engenharia de Dados e Engenharia de Analytics**
 - 📈 **Modelos Preditivos e Machine Learning**
 - 🤖 **LLMs e RAG (Retrieval-Augmented Generation)**
 - 🗂️ **Bancos de Dados Vetoriais**
@@ -38,7 +38,7 @@ Atualmente estou me aprimorando nas seguintes áreas:
 - **Cloud**: Azure, AWS, GCP
 - **Banco de Dados**: PostgreSQL, MySQL, SQL Server
 - **DevOps**: Docker, Git, GitHub
-- **Monitoramento**: Zabbix
+- **Monitoramento**: Zabbix, Grafana
 
 ## 💬 Vamos conectar!
 📧 Email: gabrielronney62@gmail.com  
@@ -53,15 +53,15 @@ Atualmente estou me aprimorando nas seguintes áreas:
 🚀 **Software Researcher at SESI Innovation Center for Health Technologies**  
 🔭 Currently working with **health innovation, artificial intelligence, and big data**  
 📚 Master's student in Computer Science at **Federal University of Santa Catarina - UFSC**  
-⚙️ Enthusiast of **machine learning, data engineering, cloud computing, and cybersecurity**  
+⚙️ Enthusiast of **Enthusiast of data architecture and engineering, machine learning, cloud computing, among others.**  
 💡 Always seeking creative solutions for complex challenges!  
 
 ## 🚀 Areas of Expertise
+- 📚 **Health Research and Innovation**
 - 🧠 **Artificial Intelligence**
 - 📊 **Big Data & Data Science**
 - ☁️ **Cloud Computing (Azure, AWS, GCP)**
 - 🔐 **Cybersecurity**
-- 📚 **Health Research and Innovation**
 
 ## 🌱 Constantly Learning
 I am currently improving my skills in the following areas:
@@ -80,7 +80,7 @@ I am currently improving my skills in the following areas:
 - **Cloud**: Azure, AWS, GCP
 - **Databases**: PostgreSQL, MySQL, SQL Server
 - **DevOps**: Docker, Git, GitHub
-- **Monitoring**: Zabbix
+- **Monitoring**: Zabbix, Grafana
 
 ## 💬 Let's connect!
 📧 Email: gabrielronney62@gmail.com  
