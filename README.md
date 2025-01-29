@@ -10,7 +10,7 @@
 
 🚀 **Pesquisador de Software no Centro de Inovação SESI em Tecnologias para Saúde**  
 🔭 Atualmente trabalhando com **inovação em saúde, inteligência artificial e big data**  
-📚 Mestrando em Ciência da Computação na ** Universidade Federal de Santa Catarina - UFSC**  
+📚 Mestrando em Ciência da Computação na **Universidade Federal de Santa Catarina - UFSC**  
 ⚙️ Entusiasta de **machine learning, engenharia de dados, cloud computing e segurança da informação**  
 💡 Sempre buscando soluções criativas para desafios complexos!  
 
