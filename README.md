@@ -8,8 +8,8 @@
 
 # 👋 Olá! Eu sou Gabriel Ronney da Silva
 
-🚀 **Pesquisador de Software no Centro de Inovação SESI em Tecnologias para Saúde**  
-🔭 Atualmente trabalhando com **inovação em saúde, inteligência artificial e big data**  
+🚀 **Pesquisador no Centro de Inovação SESI - Inteligência para genst]ao em Saúde**  
+🔭 Atualmente trabalhando com **Dados, inovação em saúde, inteligência artificial e big data**  
 📚 Mestrando em Ciência da Computação na **Universidade Federal de Santa Catarina - UFSC**  
 ⚙️ Entusiasta de **arquitetura e engenharia de dados, machine learning, cloud computing entre outros**  
 💡 Sempre buscando soluções criativas para desafios complexos!  
@@ -17,6 +17,8 @@
 ## 🚀 Áreas de Atuação
 - 📚 **Pesquisa e Inovação em Saúde**
 - 🧠 **Inteligência Artificial**
+- 🧠 **Data Engineer**
+- 🧠 **AI Engineer**
 - 📊 **Big Data & Data Science**
 - ☁️ **Cloud Computing (Azure, AWS, GCP)**
 - 🔐 **Segurança da Informação**
@@ -25,6 +27,7 @@
 Atualmente estou me aprimorando nas seguintes áreas:
 - 💻 **Arquitetura, Engenharia de Dados e Engenharia de Analytics**
 - 📈 **Modelos Preditivos e Machine Learning**
+- 💻 **Computação Quântica e QML (Quantum Machine Learning)**
 - 🤖 **LLMs e RAG (Retrieval-Augmented Generation)**
 - 🗂️ **Bancos de Dados Vetoriais**
 
